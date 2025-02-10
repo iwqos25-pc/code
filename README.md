@@ -1,3 +1,3 @@
 # Overview
 
-This repository is created for "HPC: Hierarchy-aware Product Codes for Localized Stripe Merging with Repair Efficiency Guarantee" , including the source codes of prototype for testbed experiment.
+This repository is created for "Exploiting Product Codes for Efficient Wide Stripe Generation with Repair Efficiency Guarantee" , including the source codes of prototype for testbed experiment.
