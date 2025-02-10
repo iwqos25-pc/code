@@ -11,6 +11,6 @@ for i in $(seq 0 $NUM)
 do
 temp=${ARRAY[$i]}
     echo $temp
-    ssh eurosys25-hpc@$temp 'ps -aux | grep run_datanode | wc -l'
-    ssh eurosys25-hpc@$temp 'ps -aux | grep run_proxy | wc -l'
+    ssh iwqos25-pc@$temp 'ps -aux | grep run_datanode | wc -l'
+    ssh iwqos25-pc@$temp 'ps -aux | grep run_proxy | wc -l'
 done
